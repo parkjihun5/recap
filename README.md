@@ -17,3 +17,9 @@ git add.
 git commit -m 'message'
 git push
 다시 업로드 완료
+
+---
+1. 다운로드
+    git pull
+2. 커밋 갯수 확인
+    git log --oneline
